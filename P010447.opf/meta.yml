@@ -4,4 +4,44 @@ source_metadata:
   id: bdr:W1KG15471
   title: གསུང་འབུམ། བསྟན་པའི་དབང་ཕྱུག ༼གློག་ཀླད་པར་མ།༽
   author: ''
-  volumes: {}
+  volumes:
+    b1af33ac74a8482b98863a88205614c7:
+      image_group_id: I1KG16259
+      title: ''
+      volume_number: 1
+      total_pages: 346
+    5aee7085d97b4b388585b27df4102411:
+      image_group_id: I1KG16260
+      title: ''
+      volume_number: 2
+      total_pages: 2
+    34804fc0196f4f158b90364d2c92abb9:
+      image_group_id: I1KG16261
+      title: ''
+      volume_number: 3
+      total_pages: 514
+    384b64d2677645db83d9291537e1f232:
+      image_group_id: I1KG16262
+      title: ''
+      volume_number: 4
+      total_pages: 316
+    dfc36d7a78234e7d90efc16e4f6bf2ca:
+      image_group_id: I1KG16263
+      title: ''
+      volume_number: 5
+      total_pages: 234
+    678a33b44bb440f99cdf860992311709:
+      image_group_id: I1KG16264
+      title: ''
+      volume_number: 6
+      total_pages: 238
+    aff6b3ea4d0c46c2b735a30984f3b003:
+      image_group_id: I1KG16265
+      title: ''
+      volume_number: 7
+      total_pages: 296
+    9239b6e6a6284b47ad0a9044e0a93980:
+      image_group_id: I1KG16266
+      title: ''
+      volume_number: 8
+      total_pages: 258
